@@ -1,0 +1,23 @@
+[33mcommit 3ce6b3a046c7364e98291dc642900e16363c85e3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Siya Mhlongo <siyamhlongo.p7@gmail.com>
+Date:   Thu Jun 6 23:43:12 2024 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 976467c2ab8a3c793877b12eabac944e2068ebd4[m
+Author: Siya Mhlongo <siyamhlongo.p7@gmail.com>
+Date:   Thu Jun 6 22:57:56 2024 +0200
+
+    'hello odin'
+
+[33mcommit 10c356fde18e13239153db5463dfdb614a83f97c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Siya Mhlongo <siyamhlongo.p7@gmail.com>
+Date:   Thu Jun 6 22:43:24 2024 +0200
+
+    Add hello_world.txt
+
+[33mcommit 9a4a83abb93e139e5c763dcc28518d7384c0fb02[m
+Author: SiyaMhlongo0707 <125506316+SiyaMhlongo0707@users.noreply.github.com>
+Date:   Thu Jun 6 22:31:29 2024 +0200
+
+    Initial commit
